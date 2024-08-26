@@ -47,7 +47,6 @@ torch==2.0.1
 torchaudio==2.0.2
 torchvision==0.15.2
 typing_extensions==4.6.0
-urequest==0.0.6
 urllib3==1.25.11
 virtualenv==20.26.3
 websockets==9.1
