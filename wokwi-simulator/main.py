@@ -21,7 +21,7 @@ print("Connected!")
 
 sensor = dht.DHT22(Pin(15))
 
-URL = "http://127.0.0.1:5000/tago-io/weather/data/last"
+URL = "https://wokwi-weather-report.onrender.com/tago-io/weather/data"
 headers = {}
 headers['Content-Type'] = "application/json"
 
